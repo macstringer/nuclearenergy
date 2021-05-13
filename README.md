@@ -1,24 +1,7 @@
 # doyouknownukes
 
-## Project setup
-```
+This project was built with VUE js, if you want to run it on your local machine, you can use the following functions;
+
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
